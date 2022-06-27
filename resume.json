@@ -1,0 +1,211 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Sergio Andrés Cortés Hernández",
+    "label": "Web Developer",
+    "image": "https://es.gravatar.com/userimage/103649320/435f772174e4795c5728ce812885139a.png?size=200",
+    "email": "sacortesh@gmail.com",
+    "phone": "+57 315 366 4760",
+    "url": "",
+    "summary": "Web Developer with 6+ years of experience, focusing in front-end. Has knowledge of databases, back-end and scripting. Flexible, detail-oriented and curious. Accustomed to working with teams from different backgrounds.",
+    "location": {
+      "countryCode": "CO",
+      "city": "Bogotá"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "sergio-andrés-cortés-hernández-9754266a",
+        "url": "https://www.linkedin.com/in/sergio-andrés-cortés-hernández-9754266a/"
+      },
+      {
+        "network": "Twitter",
+        "username": "sacortesh",
+        "url": "https://twitter.com/sacortesh"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Globant",
+      "position": "Web UI Developer",
+      "startDate": "2020-09-30",
+      "highlights": [],
+      "summary": "Full time employment. Web Developer in Front End technologies with heavy focus on mobile experiences, most notably Javascript, HTML and CSS. Other used Technologies: TypeScript, Angular, Lit-Element, Polymer, Node.js, Android SDK, Xcode, CSS, Selenium, Chai",
+      "url": "https://www.linkedin.com/company/globant/",
+      "location": "Bogotá D.C., Colombia"
+    },
+    {
+      "name": "id3 Technologies",
+      "position": "Software Developer",
+      "startDate": "2016-07-31",
+      "endDate": "2020-08-31",
+      "highlights": [],
+      "summary": "Full time employment. This job was my most significant point of contact with Front End development.  Developer in C#, Java. Other used Technologies: JavaScript, Vue.js, Node.js, Android SDK, C++, HTML, CSS, Selenium, nUnit, WinForms, Apache Derby Embedded",
+      "url": "https://www.linkedin.com/company/id3-technologies/",
+      "location": "Bogotá D.C., Colombia"
+    },
+    {
+      "name": "Dexon Software",
+      "position": "Developer / UI Designer",
+      "startDate": "2016-01-31",
+      "endDate": "2016-07-31",
+      "highlights": [],
+      "summary": "Full time employment. Technologies more often used: C#, .NET Framework, WinForms for UI development. Other used Technologies: C#, JavaScript, HTML, CSS, Selenium, nUnit, NodeJS, ASP.Net MVC, ASP.Net Web API, WinForms, Oracle, SQL Server, jQuery.",
+      "url": "https://www.linkedin.com/company/dexon-software/",
+      "location": "Bogotá D.C., Colombia"
+    },
+    {
+      "name": "CEA - Commissariat à l'énergie atomique et aux énergies alternatives",
+      "position": "Intern",
+      "startDate": "2015-03-31",
+      "endDate": "2015-09-30",
+      "highlights": [],
+      "summary": "Subject: Augmented Reality for the Smart City",
+      "url": "https://www.linkedin.com/company/cea/",
+      "location": "Grenoble, France"
+    },
+    {
+      "name": "INTERPOL",
+      "position": "Intern",
+      "startDate": "2014-07-31",
+      "endDate": "2014-09-30",
+      "highlights": [],
+      "summary": "Subject: Development of new paradigms in passport control",
+      "url": "https://www.linkedin.com/company/interpol/",
+      "location": "Lyon, France"
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Ecole Nationale Supérieure d'Informatique et de Mathématiques Appliquées de Grenoble",
+      "area": "Ingénierie des systèmes d'information",
+      "studyType": "Diplôme d'Ingénieur",
+      "startDate": "2013-12-31",
+      "endDate": "2015-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Universidad Nacional de Colombia",
+      "area": "Ingeniería de Sistemas y Computación",
+      "studyType": "Engineer's Degree",
+      "startDate": "2009-12-31",
+      "endDate": "2015-12-31",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "FrontEnd Development",
+      "level": "Advanced",
+      "keywords": ["JavaScript/TypeScrypt", "HTML", "CSS (SASS/SCSS)", "Vue.js", "Angular", "LitElement", "Polymer"]
+    },
+    {
+      "name": "BackEnd Development",
+      "level": "Intermediate",
+      "keywords": [".NET(C#)", "Java", "Springboot", "Node.js"]
+    },
+    {
+      "name": "User Interface Design",
+      "level": "Beginner",
+      "keywords": ["Figma", "Invision"]
+    },
+    {
+      "name": "Web Scraping",
+      "level": "Beginner",
+      "keywords": ["Python", "Selenium"]
+    },
+    {
+      "name": "Scripting",
+      "level": "Intermediate",
+      "keywords": ["Bash", "Node.js", "Python"]
+    },
+    {
+      "name": "Software Project Management",
+      "level": "Advanced",
+      "keywords": ["GitLab", "Jira"]
+    },
+    {
+      "name": "Databases & Persistence",
+      "level": "Intermediate",
+      "keywords": ["SQL", "NoSQL"]
+    },
+    {
+      "name": "Version Control",
+      "level": "Advanced",
+      "keywords": ["Git", "SVN"]
+    }
+  ],
+  "languages": [
+    {
+      "fluency": "Fluent",
+      "language": "English"
+    },
+    {
+      "fluency": "Fluent",
+      "language": "French"
+    },
+    {
+      "fluency": "Native Speaker",
+      "language": "Spanish"
+    }
+  ],
+  "interests": [{
+    "name": "Self-Improvement",
+    "keywords": [
+      "Productivity",
+      "Mindfulness",
+      "Optimization"
+        ]
+  },
+  {
+    "name": "Electronics",
+    "keywords": [
+      "Hacking",
+      "Modding",
+      "Domotics",
+      "IoT"
+    ]
+  }, {
+    "name": "Writing",
+    "keywords": [
+      "Fiction",
+      "Fantasy",
+      "Thriller"
+    ]
+  },  {
+    "name": "Music",
+    "keywords": [
+      "Singing",
+      "Guitar",
+      "Metal",
+      "Jazz"
+    ]
+  }],
+  "references": [
+    {
+      "name": "Felix Antonio Cortés Alfonso (Father)",
+      "reference": "Sergio is a serious, responsible person, with moral, social and human principles, dedicated, intelligent, kind, with a desire to excel."
+    },
+    {
+      "name": "JT Turner (Coworker)",
+      "reference": "I didn't work long with Sergio but he did an amazing job on some frontend changes for the company. He was coming into a codebase he didn't know with some very legacy code. He jumped right in and worked with other members even from other teams to get the work done. He also did all of this on a very fast timeline. He is a great frontend engineer and has a very good eye for the little details even when the designer misses them. He always went above and beyond on everything he worked on and was always game to work on whatever helped out the team the most."
+    },
+    {
+      "name": "Honey (Pet)",
+      "reference": "Woof woof."
+    }
+  ],
+  "projects": [
+  ],
+  "meta": {
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "cv-sacortesh",
+  "version": "1.0.0",
+  "description": "Allows to generate custom cvs",
+  "main": "index.js",
+  "dependencies": {
+    "jsonresume-theme-actual": "^0.2.1",
+    "jsonresume-theme-stackoverflow": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sacortesh/cv-sacortesh.git"
+  },
+  "keywords": [
+    "jsonresume"
+  ],
+  "author": "sacortesh@github.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sacortesh/cv-sacortesh/issues"
+  },
+  "homepage": "https://github.com/sacortesh/cv-sacortesh#readme"
+}
