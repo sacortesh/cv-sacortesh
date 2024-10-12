@@ -2,12 +2,11 @@
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
     "name": "Sergio Andrés Cortés Hernández",
-    "label": "Web Developer",
-    "image": "https://es.gravatar.com/userimage/103649320/435f772174e4795c5728ce812885139a.png?size=200",
+    "label": "Senior Web UI Developer",
     "email": "sacortesh@gmail.com",
-    "phone": "+57 315 366 4760",
-    "url": "",
-    "summary": "Web Developer with 6+ years of experience, focusing in front-end. Has knowledge of databases, back-end and scripting. Flexible, detail-oriented and curious. Accustomed to working with teams from different backgrounds.",
+    "phone": "(+57) 315 366 4760",
+    "url": "https://sergiocortes.dev",
+    "summary": "Software developer with 9+ years of experience, focusing in front-end. Has knowledge of databases, back-end and scripting. Flexible, detail-oriented and curious. Accustomed to working with teams from different backgrounds.",
     "location": {
       "countryCode": "CO",
       "city": "Bogotá"
@@ -22,6 +21,11 @@
         "network": "Twitter",
         "username": "sacortesh",
         "url": "https://twitter.com/sacortesh"
+      },
+      {
+        "network": "Github",
+        "username": "sacortesh",
+        "url": "https://github.com/sacortesh"
       }
     ]
   },
@@ -31,7 +35,7 @@
       "position": "Web UI Developer",
       "startDate": "2020-09-30",
       "highlights": [],
-      "summary": "Full time employment. Web Developer in Front End technologies with heavy focus on mobile experiences, most notably Javascript, HTML and CSS. Other used Technologies: TypeScript, Angular, Lit-Element, Polymer, Node.js, Android SDK, Xcode, CSS, Selenium, Chai",
+      "summary": "Currently a Senior Developer, focusing on front-end development with a core emphasis on JavaScript. Strong ability to adapt to new frameworks and technologies based on project needs. Experience leading teams, fitting team members, onboarding junior developers and driving projects in the banking sector. Strong collaborator in cross-functional teams, ensuring high-quality web experiences optimized for mobile. Technologies: JavaScript, LitElement, Angular, Polymer, Node.js, Android Workflow, iOS Workflow, Selenium, Chai",
       "url": "https://www.linkedin.com/company/globant/",
       "location": "Bogotá D.C., Colombia"
     },
@@ -41,7 +45,7 @@
       "startDate": "2016-07-31",
       "endDate": "2020-08-31",
       "highlights": [],
-      "summary": "Full time employment. This job was my most significant point of contact with Front End development.  Developer in C#, Java. Other used Technologies: JavaScript, Vue.js, Node.js, Android SDK, C++, HTML, CSS, Selenium, nUnit, WinForms, Apache Derby Embedded",
+      "summary": "Developer working in the biometrics sector, heavily focusing on front-end development, back-end integrations and working with some peripherals. Played a key role in developing biometric systems using .NET and C#. Kickstarted a new front-end for the licensing management system in Vue. Technologies: C#, Java, Vue.js, JavaScript, Node.js, Apache Derby Embedded, nUnit, C++",
       "url": "https://www.linkedin.com/company/id3-technologies/",
       "location": "Bogotá D.C., Colombia"
     },
@@ -51,7 +55,7 @@
       "startDate": "2016-01-31",
       "endDate": "2016-07-31",
       "highlights": [],
-      "summary": "Full time employment. Technologies more often used: C#, .NET Framework, WinForms for UI development. Other used Technologies: C#, JavaScript, HTML, CSS, Selenium, nUnit, NodeJS, ASP.Net MVC, ASP.Net Web API, WinForms, Oracle, SQL Server, jQuery.",
+      "summary": "Worked as a developer, contributing to software projects in the ETL (Extract, Transform, Load) sector. Created user-friendly UIs for data transformation tools, which involved designing intuitive interfaces and developing complex front-end components in C#. Technologies: C#, WinForms",
       "url": "https://www.linkedin.com/company/dexon-software/",
       "location": "Bogotá D.C., Colombia"
     },
@@ -81,7 +85,7 @@
     {
       "institution": "Ecole Nationale Supérieure d'Informatique et de Mathématiques Appliquées de Grenoble",
       "area": "Ingénierie des systèmes d'information",
-      "studyType": "Diplôme d'Ingénieur",
+      "studyType": "Engineer's Degree (Europe)",
       "startDate": "2013-12-31",
       "endDate": "2015-12-31",
       "score": "",
@@ -104,7 +108,7 @@
     {
       "name": "FrontEnd Development",
       "level": "Advanced",
-      "keywords": ["JavaScript/TypeScrypt", "HTML", "CSS (SASS/SCSS)", "Vue.js", "Angular", "LitElement", "Polymer"]
+      "keywords": ["JavaScript/TypeScrypt", "HTML", "CSS (SASS/SCSS)", "Vue.js", "Angular", "LitElement", "Polymer", "Wordpress"]
     },
     {
       "name": "BackEnd Development",
@@ -160,50 +164,51 @@
     "name": "Self-Improvement",
     "keywords": [
       "Productivity",
-      "Mindfulness",
-      "Optimization"
+      "Optimization",
+      "Learning"
         ]
   },
   {
-    "name": "Electronics",
+    "name": "Tech",
     "keywords": [
+      "Electronics",
       "Hacking",
       "Modding",
-      "Domotics",
-      "IoT"
+      "Automation"
     ]
   }, {
-    "name": "Writing",
+    "name": "Creation",
     "keywords": [
-      "Fiction",
+      "Writing",
       "Fantasy",
       "Thriller"
     ]
   },  {
-    "name": "Music",
+    "name": "Others",
     "keywords": [
-      "Singing",
-      "Guitar",
-      "Metal",
-      "Jazz"
+      "Music",
+      "Gaming",
+      "Foreign Languages"
     ]
   }],
-  "references": [
-    {
-      "name": "Felix Antonio Cortés Alfonso (Father)",
-      "reference": "Sergio is a serious, responsible person, with moral, social and human principles, dedicated, intelligent, kind, with a desire to excel."
-    },
-    {
-      "name": "JT Turner (Coworker)",
-      "reference": "I didn't work long with Sergio but he did an amazing job on some frontend changes for the company. He was coming into a codebase he didn't know with some very legacy code. He jumped right in and worked with other members even from other teams to get the work done. He also did all of this on a very fast timeline. He is a great frontend engineer and has a very good eye for the little details even when the designer misses them. He always went above and beyond on everything he worked on and was always game to work on whatever helped out the team the most."
-    },
-    {
-      "name": "Honey (Pet)",
-      "reference": "Woof woof."
-    }
-  ],
-  "projects": [
-  ],
+  "projects": [{
+    "name": "Website https://psicologiaeducativa.com.co",
+    "startDate": "2024-07-14",
+    "endDate": "ongoing",
+    "description": "Professional website made in wordpress.",
+    "highlights": [
+      "Occassional author on the blog"
+    ],
+    "url": "https://psicologiaeducativa.com.co"
+  },{
+    "name": "Tarot Meanings App",
+    "startDate": "2024-08-20",
+    "endDate": "ongoing",
+    "description": "Web app that serves as a database of tarot meanings. Made with Vue 3, uses state management, can be deployed to android using capacitor, syncs with google spreadsheets.",
+    
+    "url": "https://sacortesh.github.io/tarot-fm/"
+  }
+],
   "meta": {
     "version": "v1.0.0",
     "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
