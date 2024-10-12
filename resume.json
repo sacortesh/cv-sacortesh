@@ -194,7 +194,6 @@
   "projects": [{
     "name": "Website https://psicologiaeducativa.com.co",
     "startDate": "2024-07-14",
-    "endDate": "ongoing",
     "description": "Professional website made in wordpress.",
     "highlights": [
       "Occassional author on the blog"
@@ -203,7 +202,6 @@
   },{
     "name": "Tarot Meanings App",
     "startDate": "2024-08-20",
-    "endDate": "ongoing",
     "description": "Web app that serves as a database of tarot meanings. Made with Vue 3, uses state management, can be deployed to android using capacitor, syncs with google spreadsheets.",
     
     "url": "https://sacortesh.github.io/tarot-fm/"
